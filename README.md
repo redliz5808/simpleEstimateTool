@@ -1,2 +1,3 @@
-# simpleEstimateTool
-Fire Made Designs Simple Estimate Tool
+# Fire Made Designs Simple Estimate Tool
+
+This tool is being built and maintained by Elizabeth Franklin for use by <a href="https://www.firemadedesigns.com" target="_blank">Fire Made Designs LLC</a> and its affiliated DBAs. Unauthorized use is permitted with credit 😜 <em>(cause you know developers love when people steal their code, but seriously - this code is so simple you should be able to build it on your own)</em>.
