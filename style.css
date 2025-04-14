@@ -1,0 +1,35 @@
+/* ******************************************** */
+/* *************** GLOBAL STYLES ************** */
+/* ******************************************** */
+
+/* .montserrat-700 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+} */
+
+:root {
+    --primary: #eb0350;
+    --primary-hover: #ff99bb;
+    --primary-dark: #a40037;
+    --primary-contrast: #fff;
+    --secondary: #c30eeb;
+    --accent: #78f083;
+    --accent-hover: #31a33c;
+    --primary-font: #000;
+    --secondary-font: #767779;
+}
+
+/* ******************************************** */
+/* ******************** NAV ******************* */
+/* ******************************************** */
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav img {
+    max-height: 7.8rem;
+}
